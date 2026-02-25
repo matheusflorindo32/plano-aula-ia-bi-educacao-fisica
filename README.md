@@ -1,5 +1,13 @@
 # 📘 Plano de Aula Interativo com Ecossistema IA
 ## Introdução à Análise de Dados Corporais com IA na Educação Física Escolar
+---
+
+## 📊 Fluxo Conceitual do Projeto
+
+<p align="center">
+  <img src="images/estrutura-ia-bi.png" width="650">
+</p>
+
 
 ---
 
